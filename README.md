@@ -1,1 +1,1 @@
-# -different small project
+# different small project/exercises of DS/DA.
